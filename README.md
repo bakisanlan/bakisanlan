@@ -11,9 +11,8 @@ Aerospace Engineering researcher focused on **GNSS-denied navigation** and **aut
 - Researcher @ **ITU Aerospace Research Center** (Nov 2023 – Present)
 - M.Sc. Aerospace Engineering, Istanbul Technical University (2024–2025) — GPA: 3.78/4.00
 
-> **PhD status (choose one):**
+> **PhD status:**
 > - ✅ Currently pursuing a PhD in Aerospace Engineering at Istanbul Technical University  
-> - ✅ PhD applicant in Aerospace Engineering (aiming to start soon)
 
 ---
 
