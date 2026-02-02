@@ -4,8 +4,6 @@ Aerospace Engineering researcher focused on **GNSS-denied navigation** and **aut
 
 📍 Istanbul, Turkey  
 ✉️ sanlan19@itu.edu.tr  
-🐙 GitHub: https://github.com/bakisanlan
-
 ---
 
 ## Current
